@@ -1,5 +1,6 @@
 # kamadhenu
 Wish fullfilling
 # =
-include sanskrit lekshmi syam
+import sanskrit 
+include lekshmi syam
 distribute material
