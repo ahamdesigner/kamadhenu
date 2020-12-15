@@ -1,6 +1,6 @@
-# kamadhenu
-Wish fullfilling
+# कामधेनु
+प्रार्थयति पूर्णत्व
 # =
-import sanskrit 
-include lekshmi syam
-distribute material
+गुर्वर्थत्व संस्कृत 
+गुर्वर्थत्व लक्ष्मी श्याम्
+वण्टनम् साधनवस्तु
